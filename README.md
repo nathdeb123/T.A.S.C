@@ -1,4 +1,4 @@
-# T.A.S.C Tech Adventure & Search Corner
+# T.A.S.C [Tech Adventure & Search Corner]
 
 A browser-based security and search utility dashboard built with vanilla HTML, CSS, and JavaScript.
 
