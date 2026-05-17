@@ -40,7 +40,7 @@ T.A.S.C is a multi-tool web app that includes:
 ### Search Tools
 - Google dork builder for advanced search queries
 - Search query preview, copy, and execute features
-- Separate `TASC_search.html` page for enhanced search experience
+- Separate `TASC_search` page for enhanced search experience
 
 ## Usage Notes
 
