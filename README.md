@@ -12,6 +12,8 @@ T.A.S.C is a multi-tool web app that includes:
 - Threat intelligence quick links
 - Google dorking search builder
 - A separate `TASC Search` page for theme-safe search and quick query tools
+## Figure
+![image](tech1.png)
 
 ## Features
 
